@@ -9,6 +9,17 @@ body {
   font-family: sans-serif;
 }
 
+.main-container input{
+  text-align: center;
+}
+
+
+.messages-container p{
+  margin: 5px;
+  background-color: pink;
+  border-radius: 10px;
+}
+
 .main-container {
   width: 75%;
   margin: 10px auto;
